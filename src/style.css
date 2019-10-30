@@ -2,9 +2,18 @@ form {
     max-width: 300px;
     margin: 0;
     padding: 0 5px;
+   
   }
 fieldset {
     width : 100%;
     border: 1px solid #333;
     margin: 2em;
+}
+.container
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
 }
